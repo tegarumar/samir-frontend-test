@@ -1,5 +1,9 @@
 # samir-frontend-test
 
+### Note
+
+The author used Vue js 2 & Node.js version 16.20 for this project.
+
 ## Clone the repository
 
 ## Project setup
@@ -25,10 +29,6 @@ npm run build
 ```
 npm run lint
 ```
-
-### Note
-
-The author used Node.js version 16.20 for this project.
 
 ### Customize configuration
 
