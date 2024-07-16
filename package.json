@@ -8,9 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "apexcharts": "^3.50.0",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.7.2",
     "core-js": "^3.8.3",
+    "postcss": "^8.4.39",
     "register-service-worker": "^1.7.2",
+    "tailwindcss": "^3.4.4",
     "vue": "^2.6.14",
+    "vue-apexcharts": "^1.6.2",
+    "vue-pagination-2": "^3.1.0",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
   },
